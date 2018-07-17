@@ -13,7 +13,7 @@ nav:
 widget:
     recents: '最新文章'
     archives: '归档'
-    categories: '分类'
+    categories: '目录'
     links: '链接'
     tags: '标签'
     tag_cloud: '标签云'
